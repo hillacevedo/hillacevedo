@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hillacevedo
+- 👀 I’m interested in learning C# and Jason to create videogames.
+- 🌱 I’m currently learning HTML and CSS
+- 📫 You cab contact me by my email, hillacevedo29@gmail.com
